@@ -1,0 +1,1 @@
+To make the official Instagram profile photo permanent: download the actual picture as JPG and save it as assets/ym-logo.jpg. The website will automatically use that file first. The Instagram CDN link is used as a temporary fallback and can expire.
