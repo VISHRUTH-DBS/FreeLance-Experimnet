@@ -6,5 +6,6 @@ Check out the official website here: [Chethan Events](https://chethaneve.vercel.
 <br>
 Admin Page: [Admin Page](https://chethaneve.vercel.app)
 
-
+## Pruthvi Raj Photography ##
+Check out the official website here: [Prudhvi Raj](https://pruthvi-raj-three.vercel.app/)
 
