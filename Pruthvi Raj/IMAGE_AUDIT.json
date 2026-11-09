@@ -1,0 +1,11 @@
+{
+  "downloaded": 62,
+  "unique_pixel_images": 61,
+  "duplicates_removed": [
+    {
+      "removed": "bd8cc9_516d920e00694501821b09fede1fa1ad~mv2.jpg",
+      "kept": "bd8cc9_1f5f3382d8e4409284534957fd2e7ffd~mv2.jpg"
+    }
+  ],
+  "coverage": "Five public Wix pages; external albums and videos excluded"
+}
